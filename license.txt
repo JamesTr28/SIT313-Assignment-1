@@ -1,0 +1,5 @@
+Images:
+
+-drawable/quiz.png: free commercial used. Source: https://pngimage.net/quiz-logo-png-6/
+
+-drawable/wrong.png: free commercial used. Source: http://pluspng.com/png-70903.html
